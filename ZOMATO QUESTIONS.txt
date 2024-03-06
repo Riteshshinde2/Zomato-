@@ -1,0 +1,15 @@
+QUESTIONS TO BE SOLVED?
+
+1] Total restaurents in the dataset?
+2] top 10 highest rated Restaurents?
+3] No of restaurents per city?
+4] percentage of restaurent that have online order?
+5] count restaurent having rating 0ver 4 and also offer online delivery?
+6] distribute the restaurent into different rating segment?
+7] creating segment and grouping rating into segment?
+8] count reserved table and non reserved table?
+
+
+
+
+
