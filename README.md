@@ -1,5 +1,11 @@
 # Zomato-
 Welcome to the Zomato Data Analysis project, where we delve into the intricacies of a dataset obtained from Zomato, a renowned restaurant discovery and food delivery platform. This project aims to clean and analyze the dataset, shedding light on various aspects of Indian restaurants listed on the platform.
+
+#dashboard
+![Screenshot (15)](https://github.com/Riteshshinde2/Zomato-/assets/155972900/3a451bc0-163c-4e23-92e3-e1674e013f7b)
+
+
+
 # Discription
 The Excel sheet you have is a dataset from Zomato, a popular restaurant discovery and food delivery platform. It contains information on various restaurants with 65,536 rows and the following columns:
 RESTAURANT_NAME: The name of the restaurant.
